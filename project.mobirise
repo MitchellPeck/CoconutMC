@@ -54,7 +54,7 @@
     "screenshot": "screenshot.png",
     "witsec-mailform": false,
     "witsec-white-label": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
