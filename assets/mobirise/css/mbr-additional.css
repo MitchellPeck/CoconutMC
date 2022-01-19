@@ -5744,8 +5744,22 @@ a {
     left: -1rem;
   }
 }
-.cid-sUXLlCSbvl {
+.cid-sUYvosvPZP {
   padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #232323;
+}
+.cid-sUYvosvPZP .line {
+  background-color: #232323;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sUYvosvPZP .mbr-text {
+  color: #ffffff;
+}
+.cid-sUXLlCSbvl {
+  padding-top: 0rem;
   padding-bottom: 5rem;
   background-color: #232323;
 }
