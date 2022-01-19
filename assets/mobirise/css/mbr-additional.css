@@ -5384,3 +5384,29 @@ a {
 .cid-sUVt2S1WmC .media-container-row .mbr-text {
   color: #000000;
 }
+.cid-sUVzG91KpX {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #232323;
+}
+.cid-sUVzG91KpX .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #ffe161;
+  margin-bottom: 2rem;
+}
+.cid-sUVzG91KpX .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #232323;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.cid-sUVzG91KpX .card-title,
+.cid-sUVzG91KpX .card-box {
+  color: #ffe161;
+}
