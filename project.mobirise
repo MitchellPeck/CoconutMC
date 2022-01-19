@@ -4089,7 +4089,8 @@
     "devportal.html": {
       "settings": {
         "title": "DevPortal",
-        "order": 1
+        "order": 1,
+        "footer_custom": "<script type=\"text/javascript\">document.body.style.visibility=\"hidden\";</script><div id=\"SFctr\" data-org=\"28337\" data-mfl=\"61e75ec3d80a4f27d0645fc1\"><div style=\"clear:both\"></div></div><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfl.js\"></script>"
       },
       "components": [
         {
