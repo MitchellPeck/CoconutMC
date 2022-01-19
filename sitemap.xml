@@ -33,6 +33,12 @@
 		<loc>https://www.coconutmcgames.com/devportal-manageaccount.html</loc>
 	</url>
 	<url>
-		<loc>https://www.coconutmcgames.com/devportal-work.html</loc>
+		<loc>https://www.coconutmcgames.com/devportal-worklist.html</loc>
+	</url>
+	<url>
+		<loc>https://www.coconutmcgames.com/devportal-workmenu.html</loc>
+	</url>
+	<url>
+		<loc>https://www.coconutmcgames.com/devportal-workcalendar.html</loc>
 	</url>
 </urlset>
