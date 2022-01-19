@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Coconut MC",
-    "currentPage": "devportal.html",
+    "currentPage": "devportal-logout.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -4581,7 +4581,7 @@
       "settings": {
         "title": "DevPortal Log Out",
         "order": 5,
-        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28337\" data-ini=\"signout\" data-out=\"https://www.coconutmcgames.com\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>"
+        "footer_custom": "<div id=\"SFctr\" class=\"SF\" data-org=\"28337\" data-ini=\"signout\" data-out=\"https://www.coconutmcgames.com/devportal-signin\" data-scl=\"0\" data-sfi=\"1\"><script type=\"text/javascript\" src=\"https://cdn.membershipworks.com/mfm.js\"></script>"
       },
       "components": [
         {
