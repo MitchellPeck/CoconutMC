@@ -26,7 +26,7 @@
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
@@ -49,7 +49,7 @@
     "robotsSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 77,
+    "uniqCompNum": 85,
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "witsec-mailform": false,
@@ -540,7 +540,7 @@
     "servers.html": {
       "settings": {
         "title": "Join Servers",
-        "order": 15,
+        "order": 6,
         "header_custom": ""
       },
       "components": [
@@ -1027,7 +1027,7 @@
     "java-servers.html": {
       "settings": {
         "title": "Java Servers",
-        "order": 14
+        "order": 5
       },
       "components": [
         {
@@ -1559,7 +1559,7 @@
     "dev.html": {
       "settings": {
         "title": "Become a Developer",
-        "order": 12
+        "order": 4
       },
       "components": [
         {
@@ -2175,7 +2175,7 @@
     "about.html": {
       "settings": {
         "title": "Who We Are",
-        "order": 10
+        "order": 2
       },
       "components": [
         {
@@ -2652,7 +2652,7 @@
     "ourservers.html": {
       "settings": {
         "title": "Our Servers",
-        "order": 11
+        "order": 3
       },
       "components": [
         {
